@@ -29,7 +29,7 @@
 ![chekpoint1-exo1-14](https://github.com/user-attachments/assets/6903b042-117c-46a7-bf22-e8c2f3a8185d)<br>
 ## On formate sdb2 en swap, on l'active et on vérifie qu'elle soit bien reconnue :
 ![chekpoint1-exo1-16](https://github.com/user-attachments/assets/13d4afc8-d657-4c14-8f4e-0ec1fe818707)<br>
-
+## Le swap du 1er disque a été commenté pour ne plus être pris en compte (voir FSTAB plus loin) :
 ![chekpoint1-exo1-17](https://github.com/user-attachments/assets/b38b050b-9694-40a7-805b-55e275e2f375)<br>
 ## Pour monter sdb1 dans /mnt/data, on créé le dossier :
 ![chekpoint1-exo1-18](https://github.com/user-attachments/assets/4fb98163-4e24-455b-a138-1ee926f81b25)<br>
