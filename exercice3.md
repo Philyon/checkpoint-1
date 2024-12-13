@@ -1,4 +1,4 @@
-# Voici les réponses :
+# Réponses :
 
 # 1.
 cut -d: -f1 /etc/passwd<br>
