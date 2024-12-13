@@ -59,7 +59,7 @@ jobs %1
 Le payload correspond à la portion de trame qui contient les données “réelles” que l’on souhaite transmettre, en excluant le reste.
 
 # 10.
-Car le nombre d’adresse IP est très limité au regard des besoins mondiaux. Il fallait donc trouver un moyen d’optimiser au maximum l’attribution des adresse IP. Le CIDR est plus flexible, et permet de choisir des tailles de réseaux et sous réseaux réellement adaptés aux besoins, plutôt que des classes fixes en /8, /16 ou /24.
+Car le nombre d’adresse IP est limité au regard des besoins mondiaux. Il fallait donc trouver un moyen d’optimiser au maximum l’attribution des adresse IP. Le CIDR est plus flexible, et permet de choisir des tailles de réseaux et sous réseaux réellement adaptés aux besoins, plutôt que des classes fixes en /8, /16 ou /24.
 
 
 
