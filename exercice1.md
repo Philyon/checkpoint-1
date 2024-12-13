@@ -33,7 +33,7 @@
 ![chekpoint1-exo1-17](https://github.com/user-attachments/assets/b38b050b-9694-40a7-805b-55e275e2f375)<br>
 ## Pour monter sdb1 dans /mnt/data, on créé le dossier :
 ![chekpoint1-exo1-18](https://github.com/user-attachments/assets/4fb98163-4e24-455b-a138-1ee926f81b25)<br>
-## Puis on modfie le fichier FSTAB pour que le système intègre ce nouveau montage au démarrage (on en profite pour commenter le swap du 1er disque) :
+## Puis on modfie le fichier FSTAB pour que le système intègre ce nouveau montage au démarrage (on voit le swap du 1er disque commenté) :
 ![chekpoint1-exo1-18a](https://github.com/user-attachments/assets/39d87246-2a6b-4abf-8067-39297d77b11a)<br>
 ![chekpoint1-exo1-19](https://github.com/user-attachments/assets/4e404e44-9f8f-4616-8c46-403e8dcf9803)<br>
 ## On vérifie que /dev/sdb1 est bien monté dans le dossier /mnt/data:
